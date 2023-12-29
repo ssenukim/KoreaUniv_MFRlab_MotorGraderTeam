@@ -4,5 +4,5 @@
 ### We are KUME MFR lab. motor grader team! This repository is used for sharing our job and codes.
 <hr>
 
-### Main_learn.ipynb contains discription about codes we use 
-### Folder SeniorCode contains all codes we use 
+### _Main_learn.ipynb_ contains discription about codes we use 
+### _SeniorCode_ contains all codes we use 
